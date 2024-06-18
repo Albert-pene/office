@@ -1,15 +1,14 @@
-```markdown
-> This is a blockquote.
-> You can write multiple lines.
 
-```
-#installation
+
+
+#####installation######
 ```bash
 sudo apt update
 git clone https://github.com/Albert-pene/office.git
 ```
-#usage 
+#####usage######
  after instalation you will filnd checker on the office direct, so just type :
+ 
  ```bash
 cd office
 python3 checker.py
