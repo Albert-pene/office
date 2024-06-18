@@ -29,10 +29,10 @@ cd office
 #### when the checker ask you about the path of the word list, just type 
 
 ```python
-  Enter the full wordlist path : words.txt
+  words.txt
 ```
-### and you will start checking your target and getting the information by the colors red,blue and green,
+### and you will start checking your target and getting the information by the colors red,blue and green .
+----
 ## happy bug bounty day !!!!
 
-```
 
