@@ -1,12 +1,12 @@
 
 
 
-#####installation######
+#####installation
 ```bash
 sudo apt update
 git clone https://github.com/Albert-pene/office.git
 ```
-#####usage######
+#####usage
  after instalation you will filnd checker on the office direct, so just type :
  
  ```bash
